@@ -47,7 +47,8 @@
 7. Завершаем программу с кодом возврата 0
 
 ### Тестирование
-
+<img width="753" height="288" alt="Image" src="https://github.com/user-attachments/assets/d97e0dd9-d67b-4bd7-9153-47fea440b11e" />
+<img width="776" height="290" alt="Image" src="https://github.com/user-attachments/assets/e0d510b6-459a-4d06-ac1d-9e7c85f6842c" />
 
 # Задание 2
 
@@ -94,7 +95,7 @@
 7. Завершаем программу с кодом возврата 0
 
 ### Тестирование
-
-
+<img width="694" height="287" alt="Image" src="https://github.com/user-attachments/assets/6282ee16-1dfe-4c80-be73-1f0412789752" />
+<img width="735" height="282" alt="Image" src="https://github.com/user-attachments/assets/d9533ebd-382e-40b6-b56b-1f03217c2069" />
 
 
